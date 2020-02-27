@@ -1,2 +1,2 @@
 # bsimcloud
-Toolkit for basin simulation through cloud computing technology.
+The source code for Bsimcloud.
